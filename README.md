@@ -1,1 +1,1 @@
-# something is wrong with the gramar in this file 
+# something is wrong with the grammar in this file 
